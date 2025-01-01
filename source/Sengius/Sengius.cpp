@@ -84,7 +84,8 @@ int main()
 			double value = calculateBloodVolume(weight);
 			std::cout << "The estimated blood volume for a person of the weight of " << weight << " is " << value << " liters." << std::endl;
 			break;
-		} else
+		}
+		else
 		{
 			std::cout << "Invalid input." << std::endl;
 		}
