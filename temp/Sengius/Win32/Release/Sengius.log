@@ -1,0 +1,9 @@
+﻿  Sengius.cpp
+D:\Dev\Console Apps\Sengius\source\Sengius\Sengius.cpp(49,12): warning C4834: discarding return value of function with [[nodiscard]] attribute
+D:\Dev\Console Apps\Sengius\source\Sengius\Sengius.cpp(51,27): warning C4101: 'exception': unreferenced local variable
+  Generating code
+  0 of 160 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sengius.vcxproj -> D:\Dev\Console Apps\Sengius\output\Sengius\Win32\Release\Sengius.exe
